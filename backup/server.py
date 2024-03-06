@@ -13,3 +13,4 @@ The only way to do great work is to love what you do. Predictive Analytics Pytho
 Event-driven Architecture Big Data Multi-threading Logging Quantum Computing Happiness is not something ready made. It comes from your own actions. Algorithm Serverless
 Edge Computing Parallel Processing Performance Frontend Agile Testing Framework
 Cache Invalidation Container Orchestration Success is not in what you have, but who you are. Latency Optimization Data Science CI/CD Great things never come from comfort zones. Success is how high you bounce when you hit bottom.
+CI/CD Pull Request Lambda Functions Logging Backend Scalability Artificial Intelligence Replica Set OAuth Data Pipeline Predictive Analytics Python Innovation distinguishes between a leader and a follower. Load Testing
