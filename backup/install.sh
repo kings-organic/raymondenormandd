@@ -19,3 +19,4 @@ Testing Opportunities don't happen. You create them. Serverless Sharding WebSock
 Innovation distinguishes between a leader and a follower. CI/CD Predictive Analytics Container Orchestration NLP
 Innovation distinguishes between a leader and a follower. Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it. Containerization Great things never come from comfort zones. Automation Success doesn’t just find you. You have to go out and get it. Edge Computing Version Control Lambda Functions UX Optimization Data Science
 Opportunities don't happen. You create them. Machine Learning GraphQL Distributed Systems UX Optimization Scalability Agile OAuth
+Simplicity is the ultimate sophistication. Opportunities don't happen. You create them. Algorithm Innovation distinguishes between a leader and a follower. GraphQL Cloud Functions Do what you love and the money will follow. Data Science
