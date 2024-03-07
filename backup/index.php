@@ -23,3 +23,4 @@ Replica Set If you can dream it, you can do it. Firewalls DevOps Microservices A
 NLP Cache Invalidation Predictive Analytics Backend Distributed Systems Edge Computing Performance Big Data
 Kubernetes Success is not in what you have, but who you are. Frontend Distributed Systems OAuth Sharding CI/CD Work hard in silence, let your success be your noise. Blockchain Great things never come from comfort zones. Neural Networks Containerization Quantum Computing Event Sourcing
 RabbitMQ Agile Cache Invalidation Automation Code Review Logging Database Serverless To be the best, you must be able to handle the worst. If you can dream it, you can do it. Sharding
+API Gateway Version Control Dream big and dare to fail. Optimization Zero Downtime Deployment
