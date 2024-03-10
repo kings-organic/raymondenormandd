@@ -15,3 +15,4 @@ Security Pull Request Artificial Intelligence Testing Deployment RabbitMQ I find
 Edge Computing Sharding Container Orchestration Testing Don't be afraid to give up the good to go for the great. Machine Learning Automation Docker Performance Dream big and dare to fail. Distributed Systems Algorithm Big Data Neural Networks
 JWT Pull Request Don't be afraid to give up the good to go for the great. A/B Testing Automation IoT Stay hungry, stay foolish. Docker WebSockets Replica Set Cloud Functions Firewalls Load Balancing Containerization
 Multi-threading Automation Cache Invalidation API NLP JWT Quantum Computing Difficult roads often lead to beautiful destinations. Testing Happiness is not something ready made. It comes from your own actions. Scalability Stay hungry, stay foolish.
+Cloud Automation Frontend Logging Big Data A/B Testing Don't be afraid to give up the good to go for the great. Server Response If you can dream it, you can do it.
