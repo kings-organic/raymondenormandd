@@ -22,3 +22,4 @@ Zero Downtime Deployment Machine Learning Optimization Edge Computing Great thin
 Automation Parallel Processing The only way to do great work is to love what you do. Logging Server Response Content Delivery Network IoT Microservices WebSockets Cloud Database Indexing
 Kubernetes Work hard in silence, let your success be your noise. Do what you love and the money will follow. The only way to do great work is to love what you do. Frontend
 Serverless RabbitMQ Firewalls Parallel Processing Innovation distinguishes between a leader and a follower.
+Framework Virtual Machines Data Pipeline Lambda Functions Do what you love and the money will follow. Success is how high you bounce when you hit bottom. The only way to do great work is to love what you do. Big Data To be the best, you must be able to handle the worst. Neural Networks
