@@ -34,3 +34,4 @@ Virtual Machines Machine Learning A/B Testing WebSockets Pull Request Framework 
 Monitoring React Message Queue Edge Computing Distributed Systems Replica Set
 Code Review Difficult roads often lead to beautiful destinations. Firewalls OAuth Kubernetes Frontend Optimization
 Parallel Processing Simplicity is the ultimate sophistication. Great things never come from comfort zones. If you can dream it, you can do it. WebSockets Dream big and dare to fail. CI/CD To be the best, you must be able to handle the worst. Containerization Neural Networks Distributed Systems Success doesn’t just find you. You have to go out and get it. Cloud Algorithm Version Control
+GraphQL Agile Innovation distinguishes between a leader and a follower. Sharding Dream big and dare to fail. Kafka
