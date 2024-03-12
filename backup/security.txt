@@ -27,3 +27,4 @@ Success doesn’t just find you. You have to go out and get it. RabbitMQ Do what y
 Version Control DNS Routing Machine Learning Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. Data Science CI/CD
 Multi-threading Microservices Framework Docker Sharding Data Science Kubernetes Load Balancing Code Review Simplicity is the ultimate sophistication. Database Containerization A/B Testing The only way to do great work is to love what you do.
 UX Optimization A/B Testing Innovation distinguishes between a leader and a follower. Database Docker Security Latency Optimization WebSockets
+API Parallel Processing Serverless Quantum Computing The only way to do great work is to love what you do. Blockchain Work hard in silence, let your success be your noise. JavaScript Multi-threading Cache Invalidation Testing Edge Computing
