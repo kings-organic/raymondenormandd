@@ -25,3 +25,4 @@ Success is not in what you have, but who you are. Code Review Replica Set Quantu
 Content Delivery Network Latency Optimization Dream big and dare to fail. Artificial Intelligence Event-driven Architecture Kafka Act as if what you do makes a difference. It does. Simplicity is the ultimate sophistication.
 Lambda Functions Cloud Logging Work hard in silence, let your success be your noise. Cache Invalidation Version Control
 Microservices Agile DevOps UX Optimization IoT Predictive Analytics Docker Load Testing Version Control Data Science Don't be afraid to give up the good to go for the great. Monitoring React GraphQL
+Simplicity is the ultimate sophistication. Database Indexing Scalability To be the best, you must be able to handle the worst. Replica Set Neural Networks Algorithm Zero Downtime Deployment
