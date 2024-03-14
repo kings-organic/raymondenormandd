@@ -22,3 +22,4 @@ Logging Scalability GraphQL Automation Data Science A/B Testing Monitoring Stay 
 Latency Optimization Algorithm Stay hungry, stay foolish. Simplicity is the ultimate sophistication. Happiness is not something ready made. It comes from your own actions. Distributed Systems Virtual Machines Scalability
 Content Delivery Network Difficult roads often lead to beautiful destinations. Great things never come from comfort zones. Security Docker Scalability I find that the harder I work, the more luck I seem to have. Testing DNS Routing Success doesn’t just find you. You have to go out and get it.
 Data Science Docker Cache Invalidation Success is not in what you have, but who you are. Containerization Content Delivery Network IoT Opportunities don't happen. You create them.
+Content Delivery Network API Gateway Python Artificial Intelligence If you can dream it, you can do it. Parallel Processing JWT Optimization Lambda Functions NLP Performance
