@@ -21,3 +21,4 @@ Parallel Processing NLP Cloud Event-driven Architecture Docker Opportunities don
 Parallel Processing Opportunities don't happen. You create them. A/B Testing Testing Event-driven Architecture
 Replica Set If you can dream it, you can do it. Firewalls DevOps Microservices Automation
 NLP Cache Invalidation Predictive Analytics Backend Distributed Systems Edge Computing Performance Big Data
+Kubernetes Success is not in what you have, but who you are. Frontend Distributed Systems OAuth Sharding CI/CD Work hard in silence, let your success be your noise. Blockchain Great things never come from comfort zones. Neural Networks Containerization Quantum Computing Event Sourcing
