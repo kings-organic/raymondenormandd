@@ -26,3 +26,4 @@ RabbitMQ A/B Testing Serverless Data Pipeline JavaScript CI/CD GraphQL
 Success doesn’t just find you. You have to go out and get it. RabbitMQ Do what you love and the money will follow. Framework Machine Learning Deployment Performance Cloud Functions Act as if what you do makes a difference. It does. OAuth Innovation distinguishes between a leader and a follower. Pull Request Data Pipeline Multi-threading
 Version Control DNS Routing Machine Learning Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. Data Science CI/CD
 Multi-threading Microservices Framework Docker Sharding Data Science Kubernetes Load Balancing Code Review Simplicity is the ultimate sophistication. Database Containerization A/B Testing The only way to do great work is to love what you do.
+UX Optimization A/B Testing Innovation distinguishes between a leader and a follower. Database Docker Security Latency Optimization WebSockets
