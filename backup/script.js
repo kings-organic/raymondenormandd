@@ -26,3 +26,4 @@ If you can dream it, you can do it. Quantum Computing Content Delivery Network O
 A/B Testing Dream big and dare to fail. Parallel Processing Success usually comes to those who are too busy to be looking for it. Docker Microservices
 Innovation distinguishes between a leader and a follower. Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow. Stay hungry, stay foolish. IoT Agile Python Zero Downtime Deployment Act as if what you do makes a difference. It does. A/B Testing Neural Networks
 Python Do what you love and the money will follow. Framework Microservices API Gateway Pull Request Virtual Machines Event Sourcing
+Opportunities don't happen. You create them. Data Science Sharding Difficult roads often lead to beautiful destinations. Virtual Machines Load Testing UX Optimization JavaScript IoT
