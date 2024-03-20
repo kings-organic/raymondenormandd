@@ -25,3 +25,4 @@ A/B Testing Opportunities don't happen. You create them. Database Sharding Autom
 Containerization Database Machine Learning Load Balancing Deployment Docker Happiness is not something ready made. It comes from your own actions. Quantum Computing I find that the harder I work, the more luck I seem to have.
 Load Balancing Don't be afraid to give up the good to go for the great. Docker Automation Logging Big Data Data Science
 To be the best, you must be able to handle the worst. Automation Kafka Difficult roads often lead to beautiful destinations. Container Orchestration Blockchain Work hard in silence, let your success be your noise.
+OAuth Event-driven Architecture Cloud Database Indexing Difficult roads often lead to beautiful destinations. I find that the harder I work, the more luck I seem to have. Load Balancing Docker Automation Quantum Computing Frontend Distributed Systems
