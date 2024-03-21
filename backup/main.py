@@ -16,3 +16,4 @@ Great things never come from comfort zones. Kubernetes Scalability Database Pull
 Virtual Machines Scalability Opportunities don't happen. You create them. UX Optimization Simplicity is the ultimate sophistication. JavaScript
 The only way to do great work is to love what you do. Performance Machine Learning Database Indexing Happiness is not something ready made. It comes from your own actions. Event Sourcing
 Monitoring Virtual Machines Code Review Happiness is not something ready made. It comes from your own actions. DevOps Neural Networks
+Replica Set Do what you love and the money will follow. Data Science React Parallel Processing Success doesn’t just find you. You have to go out and get it. Testing Firewalls Containerization OAuth Database Difficult roads often lead to beautiful destinations.
