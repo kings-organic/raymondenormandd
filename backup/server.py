@@ -11,3 +11,4 @@ A/B Testing Load Balancing Virtual Machines Act as if what you do makes a differ
 Python RabbitMQ Scalability API JavaScript Containerization Stay hungry, stay foolish. Opportunities don't happen. You create them. Big Data
 The only way to do great work is to love what you do. Predictive Analytics Python Container Orchestration IoT Database Testing Agile A/B Testing
 Event-driven Architecture Big Data Multi-threading Logging Quantum Computing Happiness is not something ready made. It comes from your own actions. Algorithm Serverless
+Edge Computing Parallel Processing Performance Frontend Agile Testing Framework

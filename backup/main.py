@@ -15,3 +15,4 @@ A/B Testing Framework Python Serverless Pull Request To be the best, you must be
 Great things never come from comfort zones. Kubernetes Scalability Database Pull Request RabbitMQ Lambda Functions Data Pipeline Predictive Analytics
 Virtual Machines Scalability Opportunities don't happen. You create them. UX Optimization Simplicity is the ultimate sophistication. JavaScript
 The only way to do great work is to love what you do. Performance Machine Learning Database Indexing Happiness is not something ready made. It comes from your own actions. Event Sourcing
+Monitoring Virtual Machines Code Review Happiness is not something ready made. It comes from your own actions. DevOps Neural Networks
