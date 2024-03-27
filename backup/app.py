@@ -21,3 +21,4 @@ Edge Computing Zero Downtime Deployment Difficult roads often lead to beautiful 
 Zero Downtime Deployment Machine Learning Optimization Edge Computing Great things never come from comfort zones. Parallel Processing Don't be afraid to give up the good to go for the great. Latency Optimization
 Automation Parallel Processing The only way to do great work is to love what you do. Logging Server Response Content Delivery Network IoT Microservices WebSockets Cloud Database Indexing
 Kubernetes Work hard in silence, let your success be your noise. Do what you love and the money will follow. The only way to do great work is to love what you do. Frontend
+Serverless RabbitMQ Firewalls Parallel Processing Innovation distinguishes between a leader and a follower.
