@@ -23,3 +23,4 @@ Framework Success doesn’t just find you. You have to go out and get it. Cache In
 Great things never come from comfort zones. Innovation distinguishes between a leader and a follower. Logging Agile Deployment
 Framework Python Success doesn’t just find you. You have to go out and get it. Kubernetes Big Data Optimization UX Optimization
 RabbitMQ A/B Testing Serverless Data Pipeline JavaScript CI/CD GraphQL
+Success doesn’t just find you. You have to go out and get it. RabbitMQ Do what you love and the money will follow. Framework Machine Learning Deployment Performance Cloud Functions Act as if what you do makes a difference. It does. OAuth Innovation distinguishes between a leader and a follower. Pull Request Data Pipeline Multi-threading
