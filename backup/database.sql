@@ -19,3 +19,4 @@ Event Sourcing Firewalls Blockchain API Gateway Serverless React IoT UX Optimiza
 Firewalls JavaScript Kafka Optimization Logging Content Delivery Network Success doesn’t just find you. You have to go out and get it. Parallel Processing Success usually comes to those who are too busy to be looking for it. Data Pipeline Latency Optimization
 Database Indexing To be the best, you must be able to handle the worst. A/B Testing Frontend CI/CD Don't be afraid to give up the good to go for the great. Backend
 Framework Container Orchestration Testing CI/CD Blockchain Data Pipeline Lambda Functions Success usually comes to those who are too busy to be looking for it. Edge Computing Agile Distributed Systems RabbitMQ
+Distributed Systems CI/CD Backend Machine Learning GraphQL Event-driven Architecture API

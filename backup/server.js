@@ -32,3 +32,4 @@ I find that the harder I work, the more luck I seem to have. Blockchain Framewor
 Server Response Edge Computing Monitoring GraphQL OAuth Scalability Artificial Intelligence Pull Request Load Testing Dream big and dare to fail. Logging Success is not in what you have, but who you are.
 Virtual Machines Machine Learning A/B Testing WebSockets Pull Request Framework Performance Monitoring Algorithm DevOps Frontend
 Monitoring React Message Queue Edge Computing Distributed Systems Replica Set
+Code Review Difficult roads often lead to beautiful destinations. Firewalls OAuth Kubernetes Frontend Optimization
