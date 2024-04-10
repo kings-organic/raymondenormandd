@@ -23,3 +23,4 @@ Sharding Don't be afraid to give up the good to go for the great. Optimization D
 Don't be afraid to give up the good to go for the great. JavaScript Logging Virtual Machines NLP Great things never come from comfort zones. Replica Set RabbitMQ Sharding
 Kafka Lambda Functions DNS Routing Data Pipeline Blockchain Dream big and dare to fail. Database Indexing Opportunities don't happen. You create them. Do what you love and the money will follow. Code Review Data Science Machine Learning Success is how high you bounce when you hit bottom.
 If you can dream it, you can do it. Quantum Computing Content Delivery Network OAuth Difficult roads often lead to beautiful destinations. Innovation distinguishes between a leader and a follower.
+A/B Testing Dream big and dare to fail. Parallel Processing Success usually comes to those who are too busy to be looking for it. Docker Microservices
