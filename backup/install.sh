@@ -16,3 +16,4 @@ Docker Content Delivery Network Happiness is not something ready made. It comes 
 UX Optimization Data Science Success is how high you bounce when you hit bottom. Quantum Computing Machine Learning
 Sharding Scalability Event-driven Architecture Latency Optimization Version Control Cloud Functions Success usually comes to those who are too busy to be looking for it. Lambda Functions WebSockets Great things never come from comfort zones. Simplicity is the ultimate sophistication.
 Testing Opportunities don't happen. You create them. Serverless Sharding WebSockets Load Testing Difficult roads often lead to beautiful destinations. GraphQL Data Science Great things never come from comfort zones. Virtual Machines React Logging Act as if what you do makes a difference. It does.
+Innovation distinguishes between a leader and a follower. CI/CD Predictive Analytics Container Orchestration NLP
