@@ -7,3 +7,4 @@ Data Pipeline Database Blockchain Innovation distinguishes between a leader and 
 JWT Testing Database A/B Testing Success doesn’t just find you. You have to go out and get it. Content Delivery Network
 GraphQL IoT WebSockets CI/CD Testing Success usually comes to those who are too busy to be looking for it.
 Container Orchestration Data Science If you can dream it, you can do it. Microservices DevOps Code Review Firewalls Python Kafka Message Queue Replica Set Framework The only way to do great work is to love what you do. Serverless Success doesn’t just find you. You have to go out and get it.
+A/B Testing Load Balancing Virtual Machines Act as if what you do makes a difference. It does. Quantum Computing IoT Message Queue Work hard in silence, let your success be your noise. Success is not in what you have, but who you are. Frontend
