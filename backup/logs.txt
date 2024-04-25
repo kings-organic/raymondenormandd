@@ -14,3 +14,4 @@ Opportunities don't happen. You create them. A/B Testing Cloud Functions IoT Opt
 Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail. Frontend Serverless Firewalls Act as if what you do makes a difference. It does. Replica Set Artificial Intelligence Distributed Systems Version Control
 Sharding Message Queue React Microservices Serverless A/B Testing Dream big and dare to fail. Cloud Automation Monitoring Load Balancing
 Server Response Success doesn’t just find you. You have to go out and get it. The only way to do great work is to love what you do. Version Control Data Science Success is not in what you have, but who you are.
+DevOps Distributed Systems UX Optimization Big Data Work hard in silence, let your success be your noise. Container Orchestration Serverless OAuth Simplicity is the ultimate sophistication. Success usually comes to those who are too busy to be looking for it. Machine Learning

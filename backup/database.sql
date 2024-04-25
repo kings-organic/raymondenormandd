@@ -17,3 +17,4 @@ NLP Success is not in what you have, but who you are. I find that the harder I w
 Serverless Event-driven Architecture Data Pipeline Success is not in what you have, but who you are. JWT Logging GraphQL Dream big and dare to fail.
 Event Sourcing Firewalls Blockchain API Gateway Serverless React IoT UX Optimization DevOps Act as if what you do makes a difference. It does. To be the best, you must be able to handle the worst. Replica Set
 Firewalls JavaScript Kafka Optimization Logging Content Delivery Network Success doesn’t just find you. You have to go out and get it. Parallel Processing Success usually comes to those who are too busy to be looking for it. Data Pipeline Latency Optimization
+Database Indexing To be the best, you must be able to handle the worst. A/B Testing Frontend CI/CD Don't be afraid to give up the good to go for the great. Backend
