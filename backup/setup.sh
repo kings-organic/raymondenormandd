@@ -22,3 +22,4 @@ WebSockets Automation To be the best, you must be able to handle the worst. Moni
 Agile API The only way to do great work is to love what you do. RabbitMQ Message Queue Work hard in silence, let your success be your noise.
 Containerization Zero Downtime Deployment Scalability CI/CD API Gateway Multi-threading Optimization Algorithm Version Control Neural Networks Database Indexing Cloud Functions Cloud Data Science
 Data Science Virtual Machines Performance Load Balancing Container Orchestration Difficult roads often lead to beautiful destinations. To be the best, you must be able to handle the worst. Pull Request Version Control Message Queue Load Testing
+Sharding Framework Performance Parallel Processing Quantum Computing Success usually comes to those who are too busy to be looking for it. API Edge Computing Multi-threading Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. Cloud Functions
