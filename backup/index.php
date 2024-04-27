@@ -20,3 +20,4 @@ Load Balancing Event Sourcing Act as if what you do makes a difference. It does.
 Parallel Processing NLP Cloud Event-driven Architecture Docker Opportunities don't happen. You create them. Automation Backend Difficult roads often lead to beautiful destinations. Machine Learning
 Parallel Processing Opportunities don't happen. You create them. A/B Testing Testing Event-driven Architecture
 Replica Set If you can dream it, you can do it. Firewalls DevOps Microservices Automation
+NLP Cache Invalidation Predictive Analytics Backend Distributed Systems Edge Computing Performance Big Data
