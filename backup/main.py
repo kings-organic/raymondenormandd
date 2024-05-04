@@ -12,3 +12,4 @@ Lambda Functions Version Control Don't be afraid to give up the good to go for t
 Edge Computing Don't be afraid to give up the good to go for the great. Lambda Functions UX Optimization Microservices Data Pipeline Load Testing Innovation distinguishes between a leader and a follower. Message Queue Success is how high you bounce when you hit bottom. Frontend Artificial Intelligence OAuth
 Scalability Replica Set NLP Virtual Machines Latency Optimization
 A/B Testing Framework Python Serverless Pull Request To be the best, you must be able to handle the worst. Deployment Event Sourcing DevOps Scalability Virtual Machines Neural Networks
+Great things never come from comfort zones. Kubernetes Scalability Database Pull Request RabbitMQ Lambda Functions Data Pipeline Predictive Analytics

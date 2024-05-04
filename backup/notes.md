@@ -18,3 +18,4 @@ Do what you love and the money will follow. Virtual Machines Difficult roads oft
 Firewalls Data Pipeline Quantum Computing Predictive Analytics NLP Event Sourcing WebSockets Load Testing Pull Request Artificial Intelligence
 Code Review Algorithm Zero Downtime Deployment Act as if what you do makes a difference. It does. Framework Dream big and dare to fail. Microservices Latency Optimization RabbitMQ
 Success doesn’t just find you. You have to go out and get it. JWT Multi-threading Simplicity is the ultimate sophistication. Data Pipeline React Parallel Processing
+Framework Great things never come from comfort zones. Code Review Container Orchestration A/B Testing Opportunities don't happen. You create them. Zero Downtime Deployment DevOps Simplicity is the ultimate sophistication. CI/CD Monitoring If you can dream it, you can do it. OAuth
