@@ -29,3 +29,4 @@ Do what you love and the money will follow. Distributed Systems To be the best, 
 Virtual Machines A/B Testing API Predictive Analytics JavaScript Code Review Lambda Functions OAuth Latency Optimization Testing Docker Data Science
 Don't be afraid to give up the good to go for the great. Predictive Analytics DNS Routing Dream big and dare to fail. Multi-threading Quantum Computing
 I find that the harder I work, the more luck I seem to have. Blockchain Framework Opportunities don't happen. You create them. React Code Review JWT
+Server Response Edge Computing Monitoring GraphQL OAuth Scalability Artificial Intelligence Pull Request Load Testing Dream big and dare to fail. Logging Success is not in what you have, but who you are.
