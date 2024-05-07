@@ -13,3 +13,4 @@ Cloud Don't be afraid to give up the good to go for the great. Success usually c
 Frontend Success doesn’t just find you. You have to go out and get it. A/B Testing Message Queue Firewalls
 Security Pull Request Artificial Intelligence Testing Deployment RabbitMQ I find that the harder I work, the more luck I seem to have. Parallel Processing Virtual Machines The only way to do great work is to love what you do. NLP API Content Delivery Network
 Edge Computing Sharding Container Orchestration Testing Don't be afraid to give up the good to go for the great. Machine Learning Automation Docker Performance Dream big and dare to fail. Distributed Systems Algorithm Big Data Neural Networks
+JWT Pull Request Don't be afraid to give up the good to go for the great. A/B Testing Automation IoT Stay hungry, stay foolish. Docker WebSockets Replica Set Cloud Functions Firewalls Load Balancing Containerization

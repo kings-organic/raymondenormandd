@@ -20,3 +20,4 @@ WebSockets Framework Success is how high you bounce when you hit bottom. Python 
 Virtual Machines Act as if what you do makes a difference. It does. Distributed Systems Server Response Stay hungry, stay foolish. Cloud Functions Database Kafka RabbitMQ Innovation distinguishes between a leader and a follower. If you can dream it, you can do it. Docker Container Orchestration
 Message Queue Artificial Intelligence Dream big and dare to fail. Parallel Processing Backend Simplicity is the ultimate sophistication. Replica Set Version Control WebSockets Optimization IoT Automation Big Data
 Security Machine Learning Neural Networks API Gateway Big Data Predictive Analytics
+Cache Invalidation Kubernetes Machine Learning API Gateway Big Data Database Indexing Dream big and dare to fail. Lambda Functions
