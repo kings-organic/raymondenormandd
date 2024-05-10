@@ -13,3 +13,4 @@ Logging Frontend Firewalls Container Orchestration Framework Opportunities don't
 Opportunities don't happen. You create them. A/B Testing Cloud Functions IoT Optimization Load Testing Message Queue Content Delivery Network Edge Computing
 Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail. Frontend Serverless Firewalls Act as if what you do makes a difference. It does. Replica Set Artificial Intelligence Distributed Systems Version Control
 Sharding Message Queue React Microservices Serverless A/B Testing Dream big and dare to fail. Cloud Automation Monitoring Load Balancing
+Server Response Success doesn’t just find you. You have to go out and get it. The only way to do great work is to love what you do. Version Control Data Science Success is not in what you have, but who you are.
