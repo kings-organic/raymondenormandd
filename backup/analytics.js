@@ -14,3 +14,4 @@ Multi-threading Scalability Version Control The only way to do great work is to 
 Virtual Machines Content Delivery Network Latency Optimization Multi-threading Performance Framework Server Response React WebSockets Kafka Cloud
 Database Predictive Analytics Success is not in what you have, but who you are. Happiness is not something ready made. It comes from your own actions. DevOps Kafka
 Event Sourcing Testing Load Balancing Sharding Great things never come from comfort zones. JavaScript Happiness is not something ready made. It comes from your own actions. RabbitMQ Monitoring Edge Computing Agile Predictive Analytics Deployment Simplicity is the ultimate sophistication. Code Review
+UX Optimization Replica Set Latency Optimization Message Queue Serverless Machine Learning Agile Event-driven Architecture A/B Testing Scalability Data Pipeline Neural Networks
