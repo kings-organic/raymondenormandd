@@ -18,3 +18,4 @@ Simplicity is the ultimate sophistication. Data Pipeline Quantum Computing The o
 Deployment Python Load Balancing Server Response Don't be afraid to give up the good to go for the great. Success is not in what you have, but who you are. Opportunities don't happen. You create them. Multi-threading Optimization Distributed Systems If you can dream it, you can do it.
 Load Balancing Event Sourcing Act as if what you do makes a difference. It does. Latency Optimization Machine Learning Great things never come from comfort zones. Agile Edge Computing WebSockets
 Parallel Processing NLP Cloud Event-driven Architecture Docker Opportunities don't happen. You create them. Automation Backend Difficult roads often lead to beautiful destinations. Machine Learning
+Parallel Processing Opportunities don't happen. You create them. A/B Testing Testing Event-driven Architecture
