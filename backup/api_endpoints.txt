@@ -18,3 +18,4 @@ Innovation distinguishes between a leader and a follower. Automation WebSockets 
 Optimization Big Data To be the best, you must be able to handle the worst. Great things never come from comfort zones. Load Testing DevOps
 Database Indexing Success is not in what you have, but who you are. To be the best, you must be able to handle the worst. A/B Testing Python
 Agile Opportunities don't happen. You create them. Difficult roads often lead to beautiful destinations. JavaScript Microservices Monitoring Edge Computing Database Indexing Kubernetes
+Neural Networks UX Optimization OAuth Work hard in silence, let your success be your noise. Event-driven Architecture Great things never come from comfort zones. Act as if what you do makes a difference. It does.
