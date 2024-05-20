@@ -27,3 +27,4 @@ Zero Downtime Deployment Version Control Server Response Load Balancing Success 
 API Predictive Analytics Serverless NLP API Gateway
 Do what you love and the money will follow. Distributed Systems To be the best, you must be able to handle the worst. Great things never come from comfort zones. Big Data Automation Docker Simplicity is the ultimate sophistication.
 Virtual Machines A/B Testing API Predictive Analytics JavaScript Code Review Lambda Functions OAuth Latency Optimization Testing Docker Data Science
+Don't be afraid to give up the good to go for the great. Predictive Analytics DNS Routing Dream big and dare to fail. Multi-threading Quantum Computing
