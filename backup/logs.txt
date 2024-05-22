@@ -11,3 +11,4 @@ Event-driven Architecture Simplicity is the ultimate sophistication. Database In
 Predictive Analytics Scalability Serverless Microservices DevOps Great things never come from comfort zones. Distributed Systems Framework Logging Monitoring A/B Testing Version Control Do what you love and the money will follow.
 Logging Frontend Firewalls Container Orchestration Framework Opportunities don't happen. You create them. Zero Downtime Deployment Virtual Machines Artificial Intelligence
 Opportunities don't happen. You create them. A/B Testing Cloud Functions IoT Optimization Load Testing Message Queue Content Delivery Network Edge Computing
+Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail. Frontend Serverless Firewalls Act as if what you do makes a difference. It does. Replica Set Artificial Intelligence Distributed Systems Version Control
