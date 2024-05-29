@@ -9,3 +9,4 @@ DNS Routing React Serverless Sharding Logging Docker Pull Request Agile Optimiza
 Event Sourcing Opportunities don't happen. You create them. Message Queue I find that the harder I work, the more luck I seem to have. Stay hungry, stay foolish. Optimization Success is not in what you have, but who you are. Logging
 Event-driven Architecture Simplicity is the ultimate sophistication. Database Indexing Blockchain Success usually comes to those who are too busy to be looking for it.
 Predictive Analytics Scalability Serverless Microservices DevOps Great things never come from comfort zones. Distributed Systems Framework Logging Monitoring A/B Testing Version Control Do what you love and the money will follow.
+Logging Frontend Firewalls Container Orchestration Framework Opportunities don't happen. You create them. Zero Downtime Deployment Virtual Machines Artificial Intelligence
