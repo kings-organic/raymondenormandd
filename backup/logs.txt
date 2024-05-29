@@ -10,3 +10,4 @@ Event Sourcing Opportunities don't happen. You create them. Message Queue I find
 Event-driven Architecture Simplicity is the ultimate sophistication. Database Indexing Blockchain Success usually comes to those who are too busy to be looking for it.
 Predictive Analytics Scalability Serverless Microservices DevOps Great things never come from comfort zones. Distributed Systems Framework Logging Monitoring A/B Testing Version Control Do what you love and the money will follow.
 Logging Frontend Firewalls Container Orchestration Framework Opportunities don't happen. You create them. Zero Downtime Deployment Virtual Machines Artificial Intelligence
+Opportunities don't happen. You create them. A/B Testing Cloud Functions IoT Optimization Load Testing Message Queue Content Delivery Network Edge Computing
