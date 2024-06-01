@@ -20,3 +20,4 @@ Dream big and dare to fail. Predictive Analytics Kubernetes Cloud Functions Succ
 Stay hungry, stay foolish. Machine Learning Logging API Gateway Lambda Functions Multi-threading A/B Testing
 RabbitMQ Virtual Machines Predictive Analytics Automation Server Response Quantum Computing I find that the harder I work, the more luck I seem to have. Data Science Monitoring Security Framework Testing
 Framework Success doesn’t just find you. You have to go out and get it. Cache Invalidation Quantum Computing Opportunities don't happen. You create them. Success usually comes to those who are too busy to be looking for it. Act as if what you do makes a difference. It does. Data Science Cloud Functions To be the best, you must be able to handle the worst. API Gateway Load Testing JWT Message Queue
+Great things never come from comfort zones. Innovation distinguishes between a leader and a follower. Logging Agile Deployment
