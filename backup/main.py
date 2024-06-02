@@ -10,3 +10,4 @@ Opportunities don't happen. You create them. Docker The only way to do great wor
 Code Review If you can dream it, you can do it. Container Orchestration Artificial Intelligence Security Neural Networks React Data Pipeline OAuth Kafka Database Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it.
 Lambda Functions Version Control Don't be afraid to give up the good to go for the great. Dream big and dare to fail. Docker Simplicity is the ultimate sophistication.
 Edge Computing Don't be afraid to give up the good to go for the great. Lambda Functions UX Optimization Microservices Data Pipeline Load Testing Innovation distinguishes between a leader and a follower. Message Queue Success is how high you bounce when you hit bottom. Frontend Artificial Intelligence OAuth
+Scalability Replica Set NLP Virtual Machines Latency Optimization
