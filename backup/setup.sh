@@ -20,3 +20,4 @@ Database Microservices Happiness is not something ready made. It comes from your
 Lambda Functions Dream big and dare to fail. Difficult roads often lead to beautiful destinations. Pull Request Parallel Processing Code Review Replica Set Success is not in what you have, but who you are. A/B Testing Frontend Great things never come from comfort zones. Machine Learning Message Queue
 WebSockets Automation To be the best, you must be able to handle the worst. Monitoring Big Data If you can dream it, you can do it. Logging Firewalls Distributed Systems Innovation distinguishes between a leader and a follower. DevOps Sharding CI/CD
 Agile API The only way to do great work is to love what you do. RabbitMQ Message Queue Work hard in silence, let your success be your noise.
+Containerization Zero Downtime Deployment Scalability CI/CD API Gateway Multi-threading Optimization Algorithm Version Control Neural Networks Database Indexing Cloud Functions Cloud Data Science

@@ -15,3 +15,4 @@ Message Queue Pull Request Dream big and dare to fail. Simplicity is the ultimat
 Database Indexing Deployment Agile Server Response DNS Routing Machine Learning Artificial Intelligence GraphQL
 Lambda Functions Edge Computing Container Orchestration Monitoring GraphQL API The only way to do great work is to love what you do.
 Deployment JavaScript Firewalls Cloud Functions Quantum Computing Event Sourcing Content Delivery Network Work hard in silence, let your success be your noise. Success is how high you bounce when you hit bottom. Blockchain Docker
+Zero Downtime Deployment Act as if what you do makes a difference. It does. Dream big and dare to fail. Deployment OAuth Microservices WebSockets Success doesn’t just find you. You have to go out and get it. Pull Request Neural Networks JWT Optimization Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower.
