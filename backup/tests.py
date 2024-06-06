@@ -14,3 +14,4 @@ Replica Set CI/CD To be the best, you must be able to handle the worst. Dream bi
 DevOps Zero Downtime Deployment Cloud Innovation distinguishes between a leader and a follower. Microservices Monitoring Server Response Machine Learning To be the best, you must be able to handle the worst. Latency Optimization Data Pipeline Python GraphQL
 Kafka Artificial Intelligence Agile Frontend Algorithm Sharding Work hard in silence, let your success be your noise. Multi-threading Code Review CI/CD DevOps Success doesn’t just find you. You have to go out and get it.
 API Content Delivery Network Latency Optimization Load Testing Performance Multi-threading
+Monitoring Innovation distinguishes between a leader and a follower. Edge Computing Python Latency Optimization API Gateway
