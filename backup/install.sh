@@ -13,3 +13,4 @@ API Gateway Load Testing Quantum Computing Predictive Analytics Cache Invalidati
 If you can dream it, you can do it. Algorithm Agile Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. CI/CD Edge Computing
 Replica Set Distributed Systems Difficult roads often lead to beautiful destinations. Scalability Act as if what you do makes a difference. It does. Monitoring Framework Content Delivery Network Happiness is not something ready made. It comes from your own actions.
 Docker Content Delivery Network Happiness is not something ready made. It comes from your own actions. Python Backend GraphQL Cloud The only way to do great work is to love what you do. Deployment Serverless Parallel Processing Artificial Intelligence
+UX Optimization Data Science Success is how high you bounce when you hit bottom. Quantum Computing Machine Learning
