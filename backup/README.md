@@ -11,3 +11,4 @@ Docker The only way to do great work is to love what you do. Data Science Conten
 Distributed Systems Kafka Testing Optimization Stay hungry, stay foolish. Algorithm Dream big and dare to fail. React Sharding A/B Testing Event-driven Architecture Load Balancing Containerization
 Cloud Don't be afraid to give up the good to go for the great. Success usually comes to those who are too busy to be looking for it. Parallel Processing Predictive Analytics Deployment
 Frontend Success doesn’t just find you. You have to go out and get it. A/B Testing Message Queue Firewalls
+Security Pull Request Artificial Intelligence Testing Deployment RabbitMQ I find that the harder I work, the more luck I seem to have. Parallel Processing Virtual Machines The only way to do great work is to love what you do. NLP API Content Delivery Network
