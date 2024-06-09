@@ -26,3 +26,4 @@ Zero Downtime Deployment Sharding Backend IoT Cloud Functions Database Indexing 
 Zero Downtime Deployment Version Control Server Response Load Balancing Success usually comes to those who are too busy to be looking for it. Database Event Sourcing UX Optimization Sharding
 API Predictive Analytics Serverless NLP API Gateway
 Do what you love and the money will follow. Distributed Systems To be the best, you must be able to handle the worst. Great things never come from comfort zones. Big Data Automation Docker Simplicity is the ultimate sophistication.
+Virtual Machines A/B Testing API Predictive Analytics JavaScript Code Review Lambda Functions OAuth Latency Optimization Testing Docker Data Science
