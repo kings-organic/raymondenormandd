@@ -12,3 +12,4 @@ Containerization Performance Kubernetes Neural Networks Work hard in silence, le
 Scalability Algorithm Pull Request Kafka Security Don't be afraid to give up the good to go for the great. Success doesn’t just find you. You have to go out and get it. Big Data Code Review Data Pipeline Artificial Intelligence Event-driven Architecture Act as if what you do makes a difference. It does. Database Indexing JWT
 Multi-threading Scalability Version Control The only way to do great work is to love what you do. Do what you love and the money will follow. Act as if what you do makes a difference. It does. Framework DNS Routing
 Virtual Machines Content Delivery Network Latency Optimization Multi-threading Performance Framework Server Response React WebSockets Kafka Cloud
+Database Predictive Analytics Success is not in what you have, but who you are. Happiness is not something ready made. It comes from your own actions. DevOps Kafka
