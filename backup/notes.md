@@ -16,3 +16,4 @@ Version Control Predictive Analytics Replica Set WebSockets Message Queue CI/CD 
 OAuth Cache Invalidation Pull Request Latency Optimization Sharding Neural Networks Docker Version Control
 Do what you love and the money will follow. Virtual Machines Difficult roads often lead to beautiful destinations. GraphQL Logging Docker DNS Routing Data Science Database Indexing IoT Sharding Replica Set Artificial Intelligence
 Firewalls Data Pipeline Quantum Computing Predictive Analytics NLP Event Sourcing WebSockets Load Testing Pull Request Artificial Intelligence
+Code Review Algorithm Zero Downtime Deployment Act as if what you do makes a difference. It does. Framework Dream big and dare to fail. Microservices Latency Optimization RabbitMQ
