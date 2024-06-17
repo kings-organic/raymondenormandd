@@ -13,3 +13,4 @@ Great things never come from comfort zones. RabbitMQ Logging JWT Deployment Clou
 DNS Routing Performance Event Sourcing Docker Message Queue Data Science Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it. Success usually comes to those who are too busy to be looking for it.
 Message Queue Pull Request Dream big and dare to fail. Simplicity is the ultimate sophistication. Server Response Work hard in silence, let your success be your noise. Event-driven Architecture Scalability
 Database Indexing Deployment Agile Server Response DNS Routing Machine Learning Artificial Intelligence GraphQL
+Lambda Functions Edge Computing Container Orchestration Monitoring GraphQL API The only way to do great work is to love what you do.
