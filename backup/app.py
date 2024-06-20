@@ -13,3 +13,4 @@ Optimization IoT DevOps If you can dream it, you can do it. Difficult roads ofte
 Blockchain I find that the harder I work, the more luck I seem to have. Optimization Data Science UX Optimization IoT Distributed Systems WebSockets Latency Optimization
 Success usually comes to those who are too busy to be looking for it. Firewalls GraphQL Multi-threading Artificial Intelligence
 Optimization Zero Downtime Deployment A/B Testing Edge Computing DNS Routing Security Cache Invalidation Scalability
+Load Balancing Kubernetes Firewalls Lambda Functions Edge Computing Virtual Machines DevOps The only way to do great work is to love what you do. Do what you love and the money will follow. Security Agile React Quantum Computing Automation
