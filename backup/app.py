@@ -12,3 +12,4 @@ Content Delivery Network Cloud Functions Lambda Functions Great things never com
 Optimization IoT DevOps If you can dream it, you can do it. Difficult roads often lead to beautiful destinations. Success is how high you bounce when you hit bottom. Database Success doesn’t just find you. You have to go out and get it. API Artificial Intelligence Stay hungry, stay foolish. Latency Optimization Docker A/B Testing
 Blockchain I find that the harder I work, the more luck I seem to have. Optimization Data Science UX Optimization IoT Distributed Systems WebSockets Latency Optimization
 Success usually comes to those who are too busy to be looking for it. Firewalls GraphQL Multi-threading Artificial Intelligence
+Optimization Zero Downtime Deployment A/B Testing Edge Computing DNS Routing Security Cache Invalidation Scalability
