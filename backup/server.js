@@ -24,3 +24,4 @@ Load Balancing Event Sourcing UX Optimization Monitoring Difficult roads often l
 Machine Learning Framework Docker Data Science Cache Invalidation
 Zero Downtime Deployment Sharding Backend IoT Cloud Functions Database Indexing API Content Delivery Network To be the best, you must be able to handle the worst. Server Response CI/CD Python Replica Set
 Zero Downtime Deployment Version Control Server Response Load Balancing Success usually comes to those who are too busy to be looking for it. Database Event Sourcing UX Optimization Sharding
+API Predictive Analytics Serverless NLP API Gateway
