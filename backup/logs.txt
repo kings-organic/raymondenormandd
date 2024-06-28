@@ -7,3 +7,4 @@ JWT Event Sourcing Quantum Computing Success is not in what you have, but who yo
 DNS Routing Latency Optimization To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower. Framework JWT Stay hungry, stay foolish. Message Queue Quantum Computing Content Delivery Network Database Containerization UX Optimization
 DNS Routing React Serverless Sharding Logging Docker Pull Request Agile Optimization Server Response Multi-threading Microservices
 Event Sourcing Opportunities don't happen. You create them. Message Queue I find that the harder I work, the more luck I seem to have. Stay hungry, stay foolish. Optimization Success is not in what you have, but who you are. Logging
+Event-driven Architecture Simplicity is the ultimate sophistication. Database Indexing Blockchain Success usually comes to those who are too busy to be looking for it.
