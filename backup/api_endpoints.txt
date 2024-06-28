@@ -14,3 +14,4 @@ UX Optimization Testing Success usually comes to those who are too busy to be lo
 A/B Testing If you can dream it, you can do it. Data Science Logging Kubernetes Load Balancing Cloud Performance DevOps
 Replica Set Quantum Computing Performance If you can dream it, you can do it. Virtual Machines Machine Learning
 Machine Learning Act as if what you do makes a difference. It does. Kafka Algorithm Event-driven Architecture Containerization Load Testing Event Sourcing Database Big Data Content Delivery Network Work hard in silence, let your success be your noise. WebSockets Framework Version Control
+Innovation distinguishes between a leader and a follower. Automation WebSockets Opportunities don't happen. You create them. React Success usually comes to those who are too busy to be looking for it. API Content Delivery Network RabbitMQ
