@@ -13,3 +13,4 @@ JavaScript Serverless API Act as if what you do makes a difference. It does. Dre
 Data Science Cloud Edge Computing Cloud Functions IoT React Firewalls Pull Request DevOps DNS Routing OAuth The only way to do great work is to love what you do. Testing
 Predictive Analytics API Performance Testing Scalability Python Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment Cloud To be the best, you must be able to handle the worst. Work hard in silence, let your success be your noise. Opportunities don't happen. You create them. Serverless Edge Computing
 Version Control Predictive Analytics Replica Set WebSockets Message Queue CI/CD Innovation distinguishes between a leader and a follower. Server Response Distributed Systems Event-driven Architecture
+OAuth Cache Invalidation Pull Request Latency Optimization Sharding Neural Networks Docker Version Control
