@@ -9,3 +9,4 @@ Artificial Intelligence Latency Optimization Blockchain Distributed Systems To b
 Data Science Dream big and dare to fail. Happiness is not something ready made. It comes from your own actions. Artificial Intelligence Zero Downtime Deployment Message Queue NLP Server Response Frontend Security Algorithm
 Docker The only way to do great work is to love what you do. Data Science Content Delivery Network JWT Edge Computing Success usually comes to those who are too busy to be looking for it. Success is how high you bounce when you hit bottom.
 Distributed Systems Kafka Testing Optimization Stay hungry, stay foolish. Algorithm Dream big and dare to fail. React Sharding A/B Testing Event-driven Architecture Load Balancing Containerization
+Cloud Don't be afraid to give up the good to go for the great. Success usually comes to those who are too busy to be looking for it. Parallel Processing Predictive Analytics Deployment
