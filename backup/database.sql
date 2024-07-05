@@ -12,3 +12,4 @@ Difficult roads often lead to beautiful destinations. Message Queue Opportunitie
 Virtual Machines Data Science Do what you love and the money will follow. Optimization Innovation distinguishes between a leader and a follower. Artificial Intelligence
 Pull Request To be the best, you must be able to handle the worst. Container Orchestration Database Indexing OAuth DNS Routing
 Server Response Kafka UX Optimization Python WebSockets Difficult roads often lead to beautiful destinations. Zero Downtime Deployment Blockchain Latency Optimization Distributed Systems Docker Happiness is not something ready made. It comes from your own actions. API Gateway
+Edge Computing API Gateway The only way to do great work is to love what you do. If you can dream it, you can do it. A/B Testing Firewalls React Act as if what you do makes a difference. It does. Neural Networks Backend
