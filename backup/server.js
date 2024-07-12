@@ -22,3 +22,4 @@ Great things never come from comfort zones. Container Orchestration WebSockets S
 IoT Difficult roads often lead to beautiful destinations. Deployment Data Science Kafka A/B Testing Agile Optimization Kubernetes
 Load Balancing Event Sourcing UX Optimization Monitoring Difficult roads often lead to beautiful destinations. Microservices A/B Testing Load Testing Testing Serverless Dream big and dare to fail.
 Machine Learning Framework Docker Data Science Cache Invalidation
+Zero Downtime Deployment Sharding Backend IoT Cloud Functions Database Indexing API Content Delivery Network To be the best, you must be able to handle the worst. Server Response CI/CD Python Replica Set

@@ -5,3 +5,4 @@ Happiness is not something ready made. It comes from your own actions. Success d
 IoT Simplicity is the ultimate sophistication. Kafka Deployment Work hard in silence, let your success be your noise. Testing Scalability Blockchain Success usually comes to those who are too busy to be looking for it. Agile Python
 Data Pipeline Database Blockchain Innovation distinguishes between a leader and a follower. Virtual Machines Quantum Computing Monitoring Zero Downtime Deployment
 JWT Testing Database A/B Testing Success doesn’t just find you. You have to go out and get it. Content Delivery Network
+GraphQL IoT WebSockets CI/CD Testing Success usually comes to those who are too busy to be looking for it.
