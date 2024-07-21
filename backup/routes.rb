@@ -10,3 +10,4 @@ Backend Load Balancing Agile Cloud Functions DNS Routing Event-driven Architectu
 JavaScript Act as if what you do makes a difference. It does. Containerization React Performance Stay hungry, stay foolish. OAuth To be the best, you must be able to handle the worst.
 Backend To be the best, you must be able to handle the worst. API Gateway Stay hungry, stay foolish. Latency Optimization Optimization IoT
 Great things never come from comfort zones. RabbitMQ Logging JWT Deployment Cloud Functions WebSockets Frontend Stay hungry, stay foolish. Message Queue Artificial Intelligence Difficult roads often lead to beautiful destinations. Success is how high you bounce when you hit bottom. Automation
+DNS Routing Performance Event Sourcing Docker Message Queue Data Science Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it. Success usually comes to those who are too busy to be looking for it.
