@@ -9,3 +9,4 @@ If you can dream it, you can do it. Work hard in silence, let your success be yo
 Backend Load Balancing Agile Cloud Functions DNS Routing Event-driven Architecture Work hard in silence, let your success be your noise. JavaScript If you can dream it, you can do it. Microservices Automation Security Data Science
 JavaScript Act as if what you do makes a difference. It does. Containerization React Performance Stay hungry, stay foolish. OAuth To be the best, you must be able to handle the worst.
 Backend To be the best, you must be able to handle the worst. API Gateway Stay hungry, stay foolish. Latency Optimization Optimization IoT
+Great things never come from comfort zones. RabbitMQ Logging JWT Deployment Cloud Functions WebSockets Frontend Stay hungry, stay foolish. Message Queue Artificial Intelligence Difficult roads often lead to beautiful destinations. Success is how high you bounce when you hit bottom. Automation
