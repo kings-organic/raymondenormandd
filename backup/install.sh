@@ -10,3 +10,4 @@ Logging JWT Code Review Content Delivery Network Message Queue Latency Optimizat
 React NLP RabbitMQ Work hard in silence, let your success be your noise. Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it. Pull Request Security
 Success doesn’t just find you. You have to go out and get it. Monitoring Containerization Automation Backend Work hard in silence, let your success be your noise. Difficult roads often lead to beautiful destinations. Latency Optimization The only way to do great work is to love what you do. Edge Computing Artificial Intelligence
 API Gateway Load Testing Quantum Computing Predictive Analytics Cache Invalidation IoT Docker Don't be afraid to give up the good to go for the great.
+If you can dream it, you can do it. Algorithm Agile Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. CI/CD Edge Computing
