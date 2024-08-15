@@ -11,3 +11,4 @@ Parallel Processing Work hard in silence, let your success be your noise. Cache 
 Difficult roads often lead to beautiful destinations. Message Queue Opportunities don't happen. You create them. Testing Cache Invalidation Backend Database Indexing
 Virtual Machines Data Science Do what you love and the money will follow. Optimization Innovation distinguishes between a leader and a follower. Artificial Intelligence
 Pull Request To be the best, you must be able to handle the worst. Container Orchestration Database Indexing OAuth DNS Routing
+Server Response Kafka UX Optimization Python WebSockets Difficult roads often lead to beautiful destinations. Zero Downtime Deployment Blockchain Latency Optimization Distributed Systems Docker Happiness is not something ready made. It comes from your own actions. API Gateway
