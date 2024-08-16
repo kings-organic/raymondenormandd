@@ -13,3 +13,4 @@ Innovation distinguishes between a leader and a follower. Scalability NLP Event-
 Act as if what you do makes a difference. It does. Parallel Processing Sharding Framework OAuth Server Response Code Review
 Event-driven Architecture API Predictive Analytics OAuth Database Load Testing NLP Content Delivery Network
 Don't be afraid to give up the good to go for the great. Deployment Virtual Machines JWT Kubernetes If you can dream it, you can do it. Scalability Microservices
+Don't be afraid to give up the good to go for the great. Pull Request Neural Networks If you can dream it, you can do it. Message Queue OAuth Dream big and dare to fail. Scalability Predictive Analytics Work hard in silence, let your success be your noise. Backend
