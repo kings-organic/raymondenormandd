@@ -10,3 +10,4 @@ Lambda Functions Opportunities don't happen. You create them. Load Balancing Dat
 Parallel Processing Work hard in silence, let your success be your noise. Cache Invalidation Monitoring Database Indexing JWT To be the best, you must be able to handle the worst. Event-driven Architecture RabbitMQ Container Orchestration Load Balancing
 Difficult roads often lead to beautiful destinations. Message Queue Opportunities don't happen. You create them. Testing Cache Invalidation Backend Database Indexing
 Virtual Machines Data Science Do what you love and the money will follow. Optimization Innovation distinguishes between a leader and a follower. Artificial Intelligence
+Pull Request To be the best, you must be able to handle the worst. Container Orchestration Database Indexing OAuth DNS Routing
