@@ -19,3 +19,4 @@ Deployment RabbitMQ Predictive Analytics A/B Testing Sharding
 JWT Monitoring Optimization Quantum Computing GraphQL Content Delivery Network Success doesn’t just find you. You have to go out and get it. Edge Computing Code Review Database Serverless Event Sourcing Container Orchestration Frontend Lambda Functions
 A/B Testing Quantum Computing If you can dream it, you can do it. Work hard in silence, let your success be your noise. Load Testing Blockchain Cloud Functions Python Optimization The only way to do great work is to love what you do.
 Great things never come from comfort zones. Container Orchestration WebSockets Success is not in what you have, but who you are. Cloud Functions
+IoT Difficult roads often lead to beautiful destinations. Deployment Data Science Kafka A/B Testing Agile Optimization Kubernetes
