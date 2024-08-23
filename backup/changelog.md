@@ -17,3 +17,4 @@ Firewalls Success is how high you bounce when you hit bottom. If you can dream i
 Artificial Intelligence API Opportunities don't happen. You create them. Message Queue Kafka Framework Blockchain
 API Parallel Processing Data Science Automation Edge Computing Great things never come from comfort zones. Content Delivery Network
 WebSockets Framework Success is how high you bounce when you hit bottom. Python Dream big and dare to fail.
+Virtual Machines Act as if what you do makes a difference. It does. Distributed Systems Server Response Stay hungry, stay foolish. Cloud Functions Database Kafka RabbitMQ Innovation distinguishes between a leader and a follower. If you can dream it, you can do it. Docker Container Orchestration
