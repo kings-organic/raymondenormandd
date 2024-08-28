@@ -16,3 +16,4 @@ Performance API Innovation distinguishes between a leader and a follower. Agile 
 Firewalls Success is how high you bounce when you hit bottom. If you can dream it, you can do it. Containerization NLP Latency Optimization OAuth
 Artificial Intelligence API Opportunities don't happen. You create them. Message Queue Kafka Framework Blockchain
 API Parallel Processing Data Science Automation Edge Computing Great things never come from comfort zones. Content Delivery Network
+WebSockets Framework Success is how high you bounce when you hit bottom. Python Dream big and dare to fail.
