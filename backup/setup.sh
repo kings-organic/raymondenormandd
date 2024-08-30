@@ -13,3 +13,4 @@ Version Control Happiness is not something ready made. It comes from your own ac
 Big Data Latency Optimization The only way to do great work is to love what you do. Scalability JWT Multi-threading
 Cloud Containerization React Framework Automation Simplicity is the ultimate sophistication. Container Orchestration Distributed Systems NLP Success usually comes to those who are too busy to be looking for it. Agile Content Delivery Network JavaScript Kubernetes Load Testing
 Docker CI/CD Cloud Functions Lambda Functions Automation Great things never come from comfort zones. Cache Invalidation The only way to do great work is to love what you do. Success is not in what you have, but who you are.
+Act as if what you do makes a difference. It does. Parallel Processing Performance Cloud Backend
