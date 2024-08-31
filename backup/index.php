@@ -12,3 +12,4 @@ Load Balancing Sharding Success is not in what you have, but who you are. Server
 Innovation distinguishes between a leader and a follower. Scalability NLP Event-driven Architecture Load Testing Distributed Systems DevOps Happiness is not something ready made. It comes from your own actions. Logging The only way to do great work is to love what you do.
 Act as if what you do makes a difference. It does. Parallel Processing Sharding Framework OAuth Server Response Code Review
 Event-driven Architecture API Predictive Analytics OAuth Database Load Testing NLP Content Delivery Network
+Don't be afraid to give up the good to go for the great. Deployment Virtual Machines JWT Kubernetes If you can dream it, you can do it. Scalability Microservices
