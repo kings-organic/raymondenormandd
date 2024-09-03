@@ -10,3 +10,4 @@ Message Queue Machine Learning NLP Success is not in what you have, but who you 
 RabbitMQ The only way to do great work is to love what you do. Serverless Data Pipeline Database Indexing WebSockets Container Orchestration IoT Event-driven Architecture Distributed Systems Containerization GraphQL Testing
 API Gateway Database Load Testing Multi-threading Kubernetes Data Pipeline Success doesn’t just find you. You have to go out and get it. Machine Learning
 JavaScript Serverless API Act as if what you do makes a difference. It does. Dream big and dare to fail. DNS Routing DevOps CI/CD Version Control
+Data Science Cloud Edge Computing Cloud Functions IoT React Firewalls Pull Request DevOps DNS Routing OAuth The only way to do great work is to love what you do. Testing
