@@ -15,3 +15,4 @@ Microservices Optimization JWT Success is how high you bounce when you hit botto
 Performance API Innovation distinguishes between a leader and a follower. Agile Multi-threading Docker Stay hungry, stay foolish. JWT Server Response Success is not in what you have, but who you are. Virtual Machines To be the best, you must be able to handle the worst. Data Science
 Firewalls Success is how high you bounce when you hit bottom. If you can dream it, you can do it. Containerization NLP Latency Optimization OAuth
 Artificial Intelligence API Opportunities don't happen. You create them. Message Queue Kafka Framework Blockchain
+API Parallel Processing Data Science Automation Edge Computing Great things never come from comfort zones. Content Delivery Network
