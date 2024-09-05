@@ -14,3 +14,4 @@ If you can dream it, you can do it. Database Security Kubernetes Dream big and d
 Microservices Optimization JWT Success is how high you bounce when you hit bottom. Act as if what you do makes a difference. It does. Success usually comes to those who are too busy to be looking for it. Content Delivery Network Opportunities don't happen. You create them. WebSockets
 Performance API Innovation distinguishes between a leader and a follower. Agile Multi-threading Docker Stay hungry, stay foolish. JWT Server Response Success is not in what you have, but who you are. Virtual Machines To be the best, you must be able to handle the worst. Data Science
 Firewalls Success is how high you bounce when you hit bottom. If you can dream it, you can do it. Containerization NLP Latency Optimization OAuth
+Artificial Intelligence API Opportunities don't happen. You create them. Message Queue Kafka Framework Blockchain
