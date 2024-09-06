@@ -17,3 +17,4 @@ Version Control Cloud Work hard in silence, let your success be your noise. Data
 To be the best, you must be able to handle the worst. Database API IoT Load Testing If you can dream it, you can do it. DevOps API Gateway
 Deployment RabbitMQ Predictive Analytics A/B Testing Sharding
 JWT Monitoring Optimization Quantum Computing GraphQL Content Delivery Network Success doesn’t just find you. You have to go out and get it. Edge Computing Code Review Database Serverless Event Sourcing Container Orchestration Frontend Lambda Functions
+A/B Testing Quantum Computing If you can dream it, you can do it. Work hard in silence, let your success be your noise. Load Testing Blockchain Cloud Functions Python Optimization The only way to do great work is to love what you do.

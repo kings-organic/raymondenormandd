@@ -10,3 +10,4 @@ JavaScript Cloud Functions Success usually comes to those who are too busy to be
 Optimization DevOps Load Testing Testing Great things never come from comfort zones. Replica Set Difficult roads often lead to beautiful destinations. Security Event-driven Architecture Frontend
 Python Content Delivery Network Performance Blockchain Containerization WebSockets Code Review IoT Event-driven Architecture Zero Downtime Deployment Act as if what you do makes a difference. It does.
 Version Control Happiness is not something ready made. It comes from your own actions. The only way to do great work is to love what you do. Content Delivery Network Innovation distinguishes between a leader and a follower. Load Testing Quantum Computing Dream big and dare to fail. To be the best, you must be able to handle the worst. IoT Data Science Pull Request Lambda Functions
+Big Data Latency Optimization The only way to do great work is to love what you do. Scalability JWT Multi-threading
