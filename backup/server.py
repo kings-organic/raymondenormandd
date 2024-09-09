@@ -2,3 +2,4 @@ Scalability Backend Content Delivery Network Testing I find that the harder I wo
 DNS Routing Automation Event Sourcing Message Queue UX Optimization Cloud Code Review Success is how high you bounce when you hit bottom. WebSockets Frontend Distributed Systems Logging Latency Optimization Blockchain
 Deployment Artificial Intelligence Code Review A/B Testing Latency Optimization
 Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it. Database Indexing Act as if what you do makes a difference. It does. Performance Difficult roads often lead to beautiful destinations. Cloud Cloud Functions Kubernetes Frontend DNS Routing Machine Learning Deployment Optimization
+IoT Simplicity is the ultimate sophistication. Kafka Deployment Work hard in silence, let your success be your noise. Testing Scalability Blockchain Success usually comes to those who are too busy to be looking for it. Agile Python
