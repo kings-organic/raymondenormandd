@@ -15,3 +15,4 @@ Machine Learning Cloud Frontend I find that the harder I work, the more luck I s
 JWT Database Indexing Security Event-driven Architecture Multi-threading Pull Request Cloud Do what you love and the money will follow. Act as if what you do makes a difference. It does.
 Artificial Intelligence DevOps Content Delivery Network Success is not in what you have, but who you are. If you can dream it, you can do it.
 Latency Optimization Load Balancing Data Pipeline Monitoring Firewalls Security Edge Computing Lambda Functions Parallel Processing Scalability Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it. Virtual Machines
+API Gateway Virtual Machines Load Testing Code Review UX Optimization Latency Optimization Predictive Analytics Performance Kafka Python Stay hungry, stay foolish. Sharding Server Response To be the best, you must be able to handle the worst.
