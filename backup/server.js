@@ -15,3 +15,4 @@ CI/CD Zero Downtime Deployment Containerization Opportunities don't happen. You 
 Do what you love and the money will follow. Cloud Functions Server Response Sharding Containerization
 Version Control Cloud Work hard in silence, let your success be your noise. Data Pipeline Predictive Analytics Quantum Computing Dream big and dare to fail. GraphQL Frontend Algorithm DNS Routing Performance
 To be the best, you must be able to handle the worst. Database API IoT Load Testing If you can dream it, you can do it. DevOps API Gateway
+Deployment RabbitMQ Predictive Analytics A/B Testing Sharding
