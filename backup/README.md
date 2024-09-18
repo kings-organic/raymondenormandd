@@ -5,3 +5,4 @@ Distributed Systems Happiness is not something ready made. It comes from your ow
 Artificial Intelligence Machine Learning Code Review Message Queue Replica Set Pull Request Framework Cloud Functions Docker
 Serverless Docker Do what you love and the money will follow. Virtual Machines NLP
 Microservices Algorithm Event-driven Architecture Load Testing Latency Optimization Edge Computing Server Response
+Artificial Intelligence Latency Optimization Blockchain Distributed Systems To be the best, you must be able to handle the worst. Serverless
