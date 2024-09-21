@@ -9,3 +9,4 @@ React Data Science Message Queue Replica Set Load Balancing Load Testing CI/CD S
 Message Queue Machine Learning NLP Success is not in what you have, but who you are. Zero Downtime Deployment Monitoring Code Review Lambda Functions Performance Deployment WebSockets Neural Networks Agile Dream big and dare to fail.
 RabbitMQ The only way to do great work is to love what you do. Serverless Data Pipeline Database Indexing WebSockets Container Orchestration IoT Event-driven Architecture Distributed Systems Containerization GraphQL Testing
 API Gateway Database Load Testing Multi-threading Kubernetes Data Pipeline Success doesn’t just find you. You have to go out and get it. Machine Learning
+JavaScript Serverless API Act as if what you do makes a difference. It does. Dream big and dare to fail. DNS Routing DevOps CI/CD Version Control
