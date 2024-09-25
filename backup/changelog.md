@@ -10,3 +10,4 @@ OAuth The only way to do great work is to love what you do. Code Review Difficul
 Do what you love and the money will follow. Sharding Data Science Cloud Functions Machine Learning Database Indexing Python
 Database Indexing Cloud Functions Act as if what you do makes a difference. It does. UX Optimization Replica Set Edge Computing Parallel Processing Testing Monitoring Containerization Event Sourcing
 DNS Routing Deployment Version Control Multi-threading Virtual Machines Latency Optimization Zero Downtime Deployment Performance Frontend Containerization DevOps
+If you can dream it, you can do it. Database Security Kubernetes Dream big and dare to fail. OAuth Message Queue Success usually comes to those who are too busy to be looking for it. Testing Do what you love and the money will follow. Algorithm Artificial Intelligence Data Pipeline Difficult roads often lead to beautiful destinations.
