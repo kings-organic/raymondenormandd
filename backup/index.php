@@ -11,3 +11,4 @@ Success is how high you bounce when you hit bottom. Performance Firewalls Succes
 Load Balancing Sharding Success is not in what you have, but who you are. Server Response Cloud Functions IoT Simplicity is the ultimate sophistication. Replica Set Event Sourcing Deployment Containerization Happiness is not something ready made. It comes from your own actions. Frontend Zero Downtime Deployment
 Innovation distinguishes between a leader and a follower. Scalability NLP Event-driven Architecture Load Testing Distributed Systems DevOps Happiness is not something ready made. It comes from your own actions. Logging The only way to do great work is to love what you do.
 Act as if what you do makes a difference. It does. Parallel Processing Sharding Framework OAuth Server Response Code Review
+Event-driven Architecture API Predictive Analytics OAuth Database Load Testing NLP Content Delivery Network
