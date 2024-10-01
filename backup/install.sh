@@ -6,3 +6,4 @@ NLP Stay hungry, stay foolish. Happiness is not something ready made. It comes f
 Big Data Cloud Functions Artificial Intelligence Sharding Success usually comes to those who are too busy to be looking for it.
 Work hard in silence, let your success be your noise. Predictive Analytics Frontend CI/CD A/B Testing Multi-threading
 Event-driven Architecture Simplicity is the ultimate sophistication. Content Delivery Network IoT Dream big and dare to fail. Load Balancing Replica Set NLP If you can dream it, you can do it. Neural Networks Load Testing Big Data DevOps Event Sourcing Server Response
+Logging JWT Code Review Content Delivery Network Message Queue Latency Optimization Difficult roads often lead to beautiful destinations. Great things never come from comfort zones. Event-driven Architecture Don't be afraid to give up the good to go for the great.
