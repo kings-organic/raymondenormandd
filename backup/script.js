@@ -13,3 +13,4 @@ Server Response Automation Replica Set React Optimization Innovation distinguish
 Machine Learning Testing NLP To be the best, you must be able to handle the worst. Act as if what you do makes a difference. It does.
 Machine Learning Cloud Frontend I find that the harder I work, the more luck I seem to have. Edge Computing
 JWT Database Indexing Security Event-driven Architecture Multi-threading Pull Request Cloud Do what you love and the money will follow. Act as if what you do makes a difference. It does.
+Artificial Intelligence DevOps Content Delivery Network Success is not in what you have, but who you are. If you can dream it, you can do it.
