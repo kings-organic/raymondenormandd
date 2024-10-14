@@ -11,3 +11,4 @@ IoT Backend Containerization Work hard in silence, let your success be your nois
 Replica Set Event-driven Architecture Happiness is not something ready made. It comes from your own actions. Deployment Lambda Functions Do what you love and the money will follow. Content Delivery Network Performance Cloud Functions Artificial Intelligence Sharding API DNS Routing
 Database Indexing Event-driven Architecture Event Sourcing Automation API Gateway Happiness is not something ready made. It comes from your own actions. DevOps Do what you love and the money will follow. If you can dream it, you can do it. React
 Optimization Blockchain Database Indexing Agile Frontend A/B Testing Database
+CI/CD Zero Downtime Deployment Containerization Opportunities don't happen. You create them. Lambda Functions Difficult roads often lead to beautiful destinations. WebSockets Algorithm
