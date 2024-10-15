@@ -9,3 +9,4 @@ Backend Do what you love and the money will follow. Quantum Computing Happiness 
 OAuth The only way to do great work is to love what you do. Code Review Difficult roads often lead to beautiful destinations. Logging
 Do what you love and the money will follow. Sharding Data Science Cloud Functions Machine Learning Database Indexing Python
 Database Indexing Cloud Functions Act as if what you do makes a difference. It does. UX Optimization Replica Set Edge Computing Parallel Processing Testing Monitoring Containerization Event Sourcing
+DNS Routing Deployment Version Control Multi-threading Virtual Machines Latency Optimization Zero Downtime Deployment Performance Frontend Containerization DevOps
