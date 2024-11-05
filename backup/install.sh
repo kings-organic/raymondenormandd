@@ -4,3 +4,4 @@ IoT Monitoring Framework Pull Request Act as if what you do makes a difference. 
 Stay hungry, stay foolish. Machine Learning Quantum Computing Database Indexing Virtual Machines Server Response Act as if what you do makes a difference. It does.
 NLP Stay hungry, stay foolish. Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it. Virtual Machines DNS Routing React
 Big Data Cloud Functions Artificial Intelligence Sharding Success usually comes to those who are too busy to be looking for it.
+Work hard in silence, let your success be your noise. Predictive Analytics Frontend CI/CD A/B Testing Multi-threading

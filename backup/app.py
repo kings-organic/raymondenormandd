@@ -6,3 +6,4 @@ Docker Data Pipeline Performance Code Review IoT Distributed Systems Scalability
 JWT Replica Set Event-driven Architecture Python Backend Stay hungry, stay foolish. Deployment Success is not in what you have, but who you are. Work hard in silence, let your success be your noise. Innovation distinguishes between a leader and a follower.
 Load Testing Happiness is not something ready made. It comes from your own actions. RabbitMQ Machine Learning Database Indexing Predictive Analytics Zero Downtime Deployment Simplicity is the ultimate sophistication. Dream big and dare to fail. Docker React Data Science
 Containerization Database Microservices Docker IoT API Edge Computing Multi-threading Happiness is not something ready made. It comes from your own actions. Predictive Analytics Event Sourcing Message Queue Security RabbitMQ
+Happiness is not something ready made. It comes from your own actions. Python Deployment Microservices Load Testing GraphQL Performance DevOps
