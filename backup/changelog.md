@@ -8,3 +8,4 @@ Database Optimization IoT Container Orchestration Great things never come from c
 Backend Do what you love and the money will follow. Quantum Computing Happiness is not something ready made. It comes from your own actions. Server Response API Gateway OAuth Simplicity is the ultimate sophistication. Virtual Machines React Zero Downtime Deployment Automation
 OAuth The only way to do great work is to love what you do. Code Review Difficult roads often lead to beautiful destinations. Logging
 Do what you love and the money will follow. Sharding Data Science Cloud Functions Machine Learning Database Indexing Python
+Database Indexing Cloud Functions Act as if what you do makes a difference. It does. UX Optimization Replica Set Edge Computing Parallel Processing Testing Monitoring Containerization Event Sourcing
