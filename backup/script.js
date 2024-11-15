@@ -10,3 +10,4 @@ Pull Request Innovation distinguishes between a leader and a follower. Content D
 Kafka Code Review Big Data Serverless Act as if what you do makes a difference. It does. Edge Computing Firewalls Message Queue Testing Zero Downtime Deployment Work hard in silence, let your success be your noise. Containerization Parallel Processing
 Predictive Analytics Do what you love and the money will follow. Cache Invalidation Cloud Functions JWT Frontend Agile Scalability Database Indexing Logging Load Testing
 Server Response Automation Replica Set React Optimization Innovation distinguishes between a leader and a follower. API JWT Blockchain Work hard in silence, let your success be your noise. Data Pipeline Load Testing Agile Sharding
+Machine Learning Testing NLP To be the best, you must be able to handle the worst. Act as if what you do makes a difference. It does.
