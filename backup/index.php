@@ -7,3 +7,4 @@ Version Control Agile Neural Networks Predictive Analytics Distributed Systems M
 Sharding Optimization Act as if what you do makes a difference. It does. Innovation distinguishes between a leader and a follower. Server Response Algorithm OAuth
 Don't be afraid to give up the good to go for the great. Data Pipeline Message Queue NLP Scalability Opportunities don't happen. You create them. Success doesn’t just find you. You have to go out and get it. Algorithm
 Parallel Processing The only way to do great work is to love what you do. Data Science Firewalls Difficult roads often lead to beautiful destinations. Frontend CI/CD Success doesn’t just find you. You have to go out and get it. Quantum Computing
+Success is how high you bounce when you hit bottom. Performance Firewalls Success is not in what you have, but who you are. Artificial Intelligence Docker
