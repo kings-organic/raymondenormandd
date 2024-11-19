@@ -6,3 +6,4 @@ Sharding Data Pipeline I find that the harder I work, the more luck I seem to ha
 Great things never come from comfort zones. Act as if what you do makes a difference. It does. Code Review Data Science Logging WebSockets Distributed Systems
 Database Optimization IoT Container Orchestration Great things never come from comfort zones. Success usually comes to those who are too busy to be looking for it. Sharding Happiness is not something ready made. It comes from your own actions. Difficult roads often lead to beautiful destinations.
 Backend Do what you love and the money will follow. Quantum Computing Happiness is not something ready made. It comes from your own actions. Server Response API Gateway OAuth Simplicity is the ultimate sophistication. Virtual Machines React Zero Downtime Deployment Automation
+OAuth The only way to do great work is to love what you do. Code Review Difficult roads often lead to beautiful destinations. Logging
