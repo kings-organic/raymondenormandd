@@ -5,3 +5,4 @@ Dream big and dare to fail. Python Kubernetes Event Sourcing Database Simplicity
 Framework Work hard in silence, let your success be your noise. Agile Content Delivery Network Kafka
 React Testing Kubernetes Act as if what you do makes a difference. It does. Deployment Docker Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment NLP Cloud
 Load Balancing API Gateway Container Orchestration Kafka Dream big and dare to fail.
+Database UX Optimization Sharding If you can dream it, you can do it. Scalability
