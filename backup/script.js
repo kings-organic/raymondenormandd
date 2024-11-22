@@ -7,3 +7,4 @@ The only way to do great work is to love what you do. Database Indexing Monitori
 Container Orchestration Version Control Stay hungry, stay foolish. Opportunities don't happen. You create them. To be the best, you must be able to handle the worst. Cloud Act as if what you do makes a difference. It does. Data Science Monitoring CI/CD Optimization Edge Computing Parallel Processing Firewalls
 DNS Routing API CI/CD Database Framework Server Response
 Pull Request Innovation distinguishes between a leader and a follower. Content Delivery Network Cloud Functions Load Balancing Event-driven Architecture Simplicity is the ultimate sophistication. Blockchain Automation
+Kafka Code Review Big Data Serverless Act as if what you do makes a difference. It does. Edge Computing Firewalls Message Queue Testing Zero Downtime Deployment Work hard in silence, let your success be your noise. Containerization Parallel Processing
