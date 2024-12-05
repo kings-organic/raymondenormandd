@@ -5,3 +5,4 @@ Success doesn’t just find you. You have to go out and get it. Innovation disting
 Code Review NLP JWT Deployment The only way to do great work is to love what you do. React
 Version Control Agile Neural Networks Predictive Analytics Distributed Systems Microservices OAuth A/B Testing Event Sourcing Load Balancing Success is not in what you have, but who you are. UX Optimization The only way to do great work is to love what you do. Zero Downtime Deployment
 Sharding Optimization Act as if what you do makes a difference. It does. Innovation distinguishes between a leader and a follower. Server Response Algorithm OAuth
+Don't be afraid to give up the good to go for the great. Data Pipeline Message Queue NLP Scalability Opportunities don't happen. You create them. Success doesn’t just find you. You have to go out and get it. Algorithm
