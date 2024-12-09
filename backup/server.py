@@ -1,2 +1,3 @@
 Scalability Backend Content Delivery Network Testing I find that the harder I work, the more luck I seem to have. Parallel Processing Firewalls Load Balancing API API Gateway Act as if what you do makes a difference. It does. Docker Performance Work hard in silence, let your success be your noise. Success is how high you bounce when you hit bottom.
 DNS Routing Automation Event Sourcing Message Queue UX Optimization Cloud Code Review Success is how high you bounce when you hit bottom. WebSockets Frontend Distributed Systems Logging Latency Optimization Blockchain
+Deployment Artificial Intelligence Code Review A/B Testing Latency Optimization
