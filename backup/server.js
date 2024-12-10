@@ -7,3 +7,4 @@ Data Pipeline Load Testing To be the best, you must be able to handle the worst.
 Event-driven Architecture Docker Stay hungry, stay foolish. Cloud Functions Security Simplicity is the ultimate sophistication. Firewalls
 NLP Microservices Optimization Framework Sharding DNS Routing Stay hungry, stay foolish. Great things never come from comfort zones. Container Orchestration Containerization
 Lambda Functions Stay hungry, stay foolish. Frontend Kubernetes Performance Pull Request Agile Success usually comes to those who are too busy to be looking for it. Automation Zero Downtime Deployment To be the best, you must be able to handle the worst. Blockchain Simplicity is the ultimate sophistication. Database Indexing UX Optimization
+IoT Backend Containerization Work hard in silence, let your success be your noise. API Event Sourcing Blockchain Scalability Virtual Machines Great things never come from comfort zones. Code Review
