@@ -7,3 +7,4 @@ Data Science Event-driven Architecture IoT Cache Invalidation Algorithm Zero Dow
 Kafka Don't be afraid to give up the good to go for the great. Containerization IoT Testing
 Great things never come from comfort zones. Database Indexing Distributed Systems Cache Invalidation Data Pipeline Monitoring Firewalls Sharding Container Orchestration Microservices
 Data Science Python Security Event Sourcing RabbitMQ
+Message Queue Code Review Do what you love and the money will follow. Work hard in silence, let your success be your noise. Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. RabbitMQ JavaScript Pull Request API I find that the harder I work, the more luck I seem to have. API Gateway Cloud Functions
