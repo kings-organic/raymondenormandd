@@ -6,3 +6,4 @@ Distributed Systems Simplicity is the ultimate sophistication. Do what you love 
 Data Science Event-driven Architecture IoT Cache Invalidation Algorithm Zero Downtime Deployment Server Response
 Kafka Don't be afraid to give up the good to go for the great. Containerization IoT Testing
 Great things never come from comfort zones. Database Indexing Distributed Systems Cache Invalidation Data Pipeline Monitoring Firewalls Sharding Container Orchestration Microservices
+Data Science Python Security Event Sourcing RabbitMQ
