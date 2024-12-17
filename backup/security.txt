@@ -4,3 +4,4 @@ Monitoring Load Balancing API Containerization Great things never come from comf
 Difficult roads often lead to beautiful destinations. Content Delivery Network Distributed Systems Event-driven Architecture JWT API Gateway Server Response Event Sourcing Database Act as if what you do makes a difference. It does. IoT
 Distributed Systems Simplicity is the ultimate sophistication. Do what you love and the money will follow. Security JWT Frontend Lambda Functions Event Sourcing Success usually comes to those who are too busy to be looking for it. Success is how high you bounce when you hit bottom. Microservices RabbitMQ Code Review Pull Request
 Data Science Event-driven Architecture IoT Cache Invalidation Algorithm Zero Downtime Deployment Server Response
+Kafka Don't be afraid to give up the good to go for the great. Containerization IoT Testing

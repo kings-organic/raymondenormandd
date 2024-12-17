@@ -4,3 +4,4 @@ Happiness is not something ready made. It comes from your own actions. JavaScrip
 Optimization Agile Work hard in silence, let your success be your noise. Containerization Serverless
 Event-driven Architecture API Load Balancing Kubernetes Containerization JWT React To be the best, you must be able to handle the worst.
 The only way to do great work is to love what you do. Database Indexing Monitoring OAuth Data Science Cloud Functions Algorithm Data Pipeline Do what you love and the money will follow. Microservices Distributed Systems Backend
+Container Orchestration Version Control Stay hungry, stay foolish. Opportunities don't happen. You create them. To be the best, you must be able to handle the worst. Cloud Act as if what you do makes a difference. It does. Data Science Monitoring CI/CD Optimization Edge Computing Parallel Processing Firewalls
