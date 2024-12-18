@@ -4,3 +4,4 @@ Docker Deployment Happiness is not something ready made. It comes from your own 
 Server Response Kubernetes Dream big and dare to fail. Predictive Analytics To be the best, you must be able to handle the worst. Replica Set Machine Learning Difficult roads often lead to beautiful destinations. Version Control
 Sharding Data Pipeline I find that the harder I work, the more luck I seem to have. Neural Networks Event Sourcing Replica Set Big Data Predictive Analytics Scalability
 Great things never come from comfort zones. Act as if what you do makes a difference. It does. Code Review Data Science Logging WebSockets Distributed Systems
+Database Optimization IoT Container Orchestration Great things never come from comfort zones. Success usually comes to those who are too busy to be looking for it. Sharding Happiness is not something ready made. It comes from your own actions. Difficult roads often lead to beautiful destinations.
