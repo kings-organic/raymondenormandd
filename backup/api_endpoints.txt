@@ -2,3 +2,4 @@ Big Data Latency Optimization Firewalls Difficult roads often lead to beautiful 
 Performance Stay hungry, stay foolish. CI/CD Algorithm Virtual Machines Firewalls NLP Content Delivery Network Act as if what you do makes a difference. It does. A/B Testing
 Microservices Security Testing Serverless Containerization Sharding I find that the harder I work, the more luck I seem to have. Backend Frontend
 Success is not in what you have, but who you are. Optimization Blockchain Parallel Processing Act as if what you do makes a difference. It does. Load Balancing Kubernetes Happiness is not something ready made. It comes from your own actions. Content Delivery Network NLP JavaScript Great things never come from comfort zones.
+To be the best, you must be able to handle the worst. Zero Downtime Deployment Parallel Processing Predictive Analytics WebSockets Database Indexing Pull Request Event-driven Architecture
