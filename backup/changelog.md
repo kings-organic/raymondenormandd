@@ -3,3 +3,4 @@ Load Balancing Artificial Intelligence Containerization JavaScript JWT Success u
 Docker Deployment Happiness is not something ready made. It comes from your own actions. Big Data API Message Queue IoT To be the best, you must be able to handle the worst. UX Optimization Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. Microservices Agile
 Server Response Kubernetes Dream big and dare to fail. Predictive Analytics To be the best, you must be able to handle the worst. Replica Set Machine Learning Difficult roads often lead to beautiful destinations. Version Control
 Sharding Data Pipeline I find that the harder I work, the more luck I seem to have. Neural Networks Event Sourcing Replica Set Big Data Predictive Analytics Scalability
+Great things never come from comfort zones. Act as if what you do makes a difference. It does. Code Review Data Science Logging WebSockets Distributed Systems

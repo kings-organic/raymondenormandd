@@ -3,3 +3,4 @@ API Code Review Docker Great things never come from comfort zones. Happiness is 
 Pull Request UX Optimization Testing Agile Kubernetes Version Control Containerization Simplicity is the ultimate sophistication. Serverless OAuth Event-driven Architecture Load Balancing Happiness is not something ready made. It comes from your own actions.
 Python Predictive Analytics Monitoring Sharding CI/CD Opportunities don't happen. You create them. Performance
 Neural Networks Distributed Systems Code Review Microservices Blockchain Machine Learning Quantum Computing OAuth Load Testing Docker DevOps NLP Opportunities don't happen. You create them. API
+Data Pipeline Load Testing To be the best, you must be able to handle the worst. OAuth DevOps IoT Database
