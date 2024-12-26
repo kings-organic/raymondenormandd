@@ -3,3 +3,4 @@ Framework Cloud Lambda Functions Optimization Blockchain Act as if what you do m
 Happiness is not something ready made. It comes from your own actions. JavaScript To be the best, you must be able to handle the worst. Distributed Systems Virtual Machines Don't be afraid to give up the good to go for the great. CI/CD Firewalls Frontend Opportunities don't happen. You create them. Kubernetes Backend Success doesn’t just find you. You have to go out and get it. Version Control
 Optimization Agile Work hard in silence, let your success be your noise. Containerization Serverless
 Event-driven Architecture API Load Balancing Kubernetes Containerization JWT React To be the best, you must be able to handle the worst.
+The only way to do great work is to love what you do. Database Indexing Monitoring OAuth Data Science Cloud Functions Algorithm Data Pipeline Do what you love and the money will follow. Microservices Distributed Systems Backend
