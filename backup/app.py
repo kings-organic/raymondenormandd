@@ -1,1 +1,2 @@
 Event Sourcing Do what you love and the money will follow. Sharding Optimization Python Message Queue Neural Networks Success is not in what you have, but who you are. Testing Artificial Intelligence Difficult roads often lead to beautiful destinations. Dream big and dare to fail.
+Opportunities don't happen. You create them. UX Optimization Frontend Stay hungry, stay foolish. CI/CD Success doesn’t just find you. You have to go out and get it. Load Balancing Deployment If you can dream it, you can do it. A/B Testing Simplicity is the ultimate sophistication.
