@@ -1,3 +1,4 @@
 DevOps Big Data I find that the harder I work, the more luck I seem to have. Distributed Systems Algorithm DNS Routing Monitoring Database Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. WebSockets
 Framework Cloud Lambda Functions Optimization Blockchain Act as if what you do makes a difference. It does. Great things never come from comfort zones. Success is not in what you have, but who you are. Docker
 Happiness is not something ready made. It comes from your own actions. JavaScript To be the best, you must be able to handle the worst. Distributed Systems Virtual Machines Don't be afraid to give up the good to go for the great. CI/CD Firewalls Frontend Opportunities don't happen. You create them. Kubernetes Backend Success doesn’t just find you. You have to go out and get it. Version Control
+Optimization Agile Work hard in silence, let your success be your noise. Containerization Serverless
