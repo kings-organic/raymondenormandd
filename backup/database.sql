@@ -1,1 +1,2 @@
 JavaScript Stay hungry, stay foolish. Data Science Python Database Indexing Zero Downtime Deployment Container Orchestration RabbitMQ Agile Serverless
+Work hard in silence, let your success be your noise. Deployment I find that the harder I work, the more luck I seem to have. Opportunities don't happen. You create them. Simplicity is the ultimate sophistication. Database Indexing RabbitMQ Neural Networks DevOps
