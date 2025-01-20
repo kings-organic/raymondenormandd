@@ -1,1 +1,2 @@
 Zero Downtime Deployment Cloud Neural Networks Cache Invalidation Backend UX Optimization GraphQL
+Don't be afraid to give up the good to go for the great. Data Science GraphQL Automation Happiness is not something ready made. It comes from your own actions. Do what you love and the money will follow. Big Data Pull Request Cloud Functions Firewalls Python Success doesn’t just find you. You have to go out and get it. Microservices
