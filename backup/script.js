@@ -1,1 +1,2 @@
 DevOps Big Data I find that the harder I work, the more luck I seem to have. Distributed Systems Algorithm DNS Routing Monitoring Database Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. WebSockets
+Framework Cloud Lambda Functions Optimization Blockchain Act as if what you do makes a difference. It does. Great things never come from comfort zones. Success is not in what you have, but who you are. Docker
