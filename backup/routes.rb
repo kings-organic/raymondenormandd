@@ -1,3 +1,4 @@
 RabbitMQ React Security Work hard in silence, let your success be your noise. Logging Serverless A/B Testing
 Serverless Event-driven Architecture Great things never come from comfort zones. Simplicity is the ultimate sophistication. Load Balancing DevOps Frontend Python Security WebSockets Cache Invalidation GraphQL Pull Request
 UX Optimization Success is how high you bounce when you hit bottom. Event-driven Architecture Backend IoT Latency Optimization Happiness is not something ready made. It comes from your own actions. GraphQL Kafka I find that the harder I work, the more luck I seem to have. Cloud Python Difficult roads often lead to beautiful destinations. A/B Testing Don't be afraid to give up the good to go for the great.
+OAuth Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. NLP Serverless Python
