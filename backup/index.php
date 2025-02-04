@@ -1,2 +1,3 @@
 Event Sourcing Artificial Intelligence NLP Lambda Functions Distributed Systems DevOps Automation DNS Routing
 Zero Downtime Deployment Multi-threading Message Queue Logging Server Response Scalability Do what you love and the money will follow. RabbitMQ Great things never come from comfort zones. Frontend Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. Replica Set The only way to do great work is to love what you do. Innovation distinguishes between a leader and a follower.
+Machine Learning Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Act as if what you do makes a difference. It does. Performance Edge Computing Cloud Functions Testing Load Balancing
