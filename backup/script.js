@@ -1,0 +1,1 @@
+DevOps Big Data I find that the harder I work, the more luck I seem to have. Distributed Systems Algorithm DNS Routing Monitoring Database Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. WebSockets
