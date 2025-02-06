@@ -1,0 +1,1 @@
+Automation Act as if what you do makes a difference. It does. Cloud Functions Simplicity is the ultimate sophistication. Code Review Great things never come from comfort zones. Message Queue Success is how high you bounce when you hit bottom. Frontend
