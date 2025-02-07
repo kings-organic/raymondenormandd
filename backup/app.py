@@ -1,0 +1,1 @@
+Event Sourcing Do what you love and the money will follow. Sharding Optimization Python Message Queue Neural Networks Success is not in what you have, but who you are. Testing Artificial Intelligence Difficult roads often lead to beautiful destinations. Dream big and dare to fail.
