@@ -1,0 +1,1 @@
+Edge Computing Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. Big Data Dream big and dare to fail. Content Delivery Network Serverless
